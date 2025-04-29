@@ -1,2 +1,0 @@
-C:/Users/anush/OneDrive/Desktop/Auth/auth/android/app/.cxx/Debug/w1u5n352/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/anush/OneDrive/Desktop/Auth/auth/android/app/.cxx/Debug/w1u5n352/armeabi-v7a/CMakeFiles/rebuild_cache.dir
