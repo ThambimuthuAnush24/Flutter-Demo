@@ -1,0 +1,2 @@
+C:/Users/anush/OneDrive/Desktop/Auth/auth/android/app/.cxx/Debug/w1u5n352/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/anush/OneDrive/Desktop/Auth/auth/android/app/.cxx/Debug/w1u5n352/x86_64/CMakeFiles/rebuild_cache.dir
